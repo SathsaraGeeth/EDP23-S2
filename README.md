@@ -1,4 +1,4 @@
-# **EDP23[draft]- A Worspace Accident Detection and Reporting System Aimed at Archieving a Zero-Accident Workplace**
+# **EDP23[draft]- A Workspace Accident Detection and Reporting System Aimed at Archieving a Zero-Accident Workplace**
 
 ---
 
