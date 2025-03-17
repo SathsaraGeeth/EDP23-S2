@@ -185,6 +185,9 @@ Introducing **______________** , a compact wearable **device** designed to:
     13. [Missing Dematagoda railway employee found dead](https://www.hirunews.lk/english/377994/missing-dematagoda-railway-employee-found-dead-in-well)
     14. [Electrocuted construction worker falls to his death](https://www.sundaytimes.lk/150913/news/electrocuted-construction-worker-falls-to-his-death-164048.html)
     15. [Workplace violence and harassment costs Sri Lankan businesses millions](https://www.ifc.org/en/pressroom/2022/workplace-violence-and-harassment-costs-sri-lankan-businesses-millions-ifc-study)
+    16. [High Tension Electric Trauma in Sri Lanka](https://www.researchgate.net/publication/351857738_High_tension_electric_trauma_at_workplaces_in_Sri_Lanka/fulltext/60ada0c6299bf13438e83662/High-tension-electric-trauma-at-workplaces-in-Sri-Lanka.pdf)
+    17. [Ammonia Gas Poisoning Incident in Sri Lanka](https://www.business-humanrights.org/en/latest-news/sri-lanka-authorities-to-investigate-horana-rubber-factory-incident-over-alleged-violations-of-workplace-safety-resulting-in-deaths-injuries/)
+    18. [Workplace Accidents in Sri Lanka - Ticking Time Bomb](https://www.sundaytimes.lk/180506/business-times/workplace-accidents-ticking-time-bomb-292906.html)
 
 - **Data Global:**
     1. [NSC - National Safety Council USA](https://injuryfacts.nsc.org)
@@ -197,6 +200,3 @@ Introducing **______________** , a compact wearable **device** designed to:
     1. [Smart Helmet for adventurers](https://livall.com/collections/all-product)
     2. [Fall Detection for Elderly](https://doi.org/10.1109/CCWC.2017.7868363)
     3. [Lone Worker Safety Devices](https://www.okaloneworker.com/pricing/our-plans/)
-    4. [High Tension Electric Trauma in Sri Lanka](https://www.researchgate.net/publication/351857738_High_tension_electric_trauma_at_workplaces_in_Sri_Lanka/fulltext/60ada0c6299bf13438e83662/High-tension-electric-trauma-at-workplaces-in-Sri-Lanka.pdf)
-    5. [Ammonia Gas Poisoning Incident in Sri Lanka](https://www.business-humanrights.org/en/latest-news/sri-lanka-authorities-to-investigate-horana-rubber-factory-incident-over-alleged-violations-of-workplace-safety-resulting-in-deaths-injuries/)
-    6. [Workplace Accidents in Sri Lanka - Ticking Time Bomb](https://www.sundaytimes.lk/180506/business-times/workplace-accidents-ticking-time-bomb-292906.html)
