@@ -8,7 +8,7 @@
     - [In **Sri Lanka**, approximately **2,000** non-fatal occupational accidents occur annually, while the number of fatal accidents ranges between **60** and **80**.](https://labourmin.gov.lk/approximately-two-thousand-non-fatal-workplace-accidents-occur-annually-deputy-minister-of-labour-mahinda-jayasinghe/)  
     - [In **2023**, the **USA** experienced **226,698** preventable deaths and **62 million** injuries.](https://injuryfacts.nsc.org)  
     - [In **France**, there are **2 deaths daily** and **600,000 injuries** due to workplace accidents.](https://www.radiofrance.fr/franceinter/accidents-du-travail-en-france-cinq-chiffres-a-retenir-2759756)  
-- Most accidents happen due to **human error**, but some occur due to **technical issues and cost-cutting measures**. Despite this, many companies and countries aim for **"zero accidents."** <br> <img src=":img/img2.png" width="25%">
+- Most accidents happen due to **human error**, but some occur due to **technical issues and cost-cutting measures**. Despite this, many companies and countries aim for **"zero accidents."** <br> <img src="img/img2.png" width="25%">
 
 - Here is quick list of some recents workspace accidents happened in **Sri Lanka**.
     1. [5 deaths due to Ammonia gas poisoning in a rubber factory in Horana.](https://www.business-humanrights.org/en/latest-news/sri-lanka-authorities-to-investigate-horana-rubber-factory-incident-over-alleged-violations-of-workplace-safety-resulting-in-deaths-injuries/)
@@ -24,7 +24,7 @@
 ## 2. **Types of Workplace Accidents?**
 
 - What kind of accidents could happen in workplaces? Do they depend on the type of work being done?
-    - Leading workspace-related injuries in **Sri Lanka**, according to the [Directorate of Non-Communicable Diseases](https://www.ncd.health.gov.lk/images/injury/Annual_injury_report_2022.pdf), are as follows:<br> <img src=":img/img1.png" width="75%">
+    - Leading workspace-related injuries in **Sri Lanka**, according to the [Directorate of Non-Communicable Diseases](https://www.ncd.health.gov.lk/images/injury/Annual_injury_report_2022.pdf), are as follows:<br> <img src="img/img1.png" width="75%">
 
     - The most common accident in the **construction sector** in **Sri Lanka** is **falling** followed by **being struck-by something**, acording to both [paper 1](https://www.irbnet.de/daten/iconda/CIB_DC31500.pdf), and [paper 2](https://pdfs.semanticscholar.org/4db1/fe19e3a5042d9ae9aeff6af24bbe6ea245b0.pdf).
 
@@ -62,7 +62,7 @@ That's why we must focus on both **prevention** and **rapid action** to ensure w
 Introducing **______________** , a compact wearable **device** designed to:
 
 ### 4.1. **Accident Detection & Reporting**
-<br> <img src=":img/img6.png" width="25%"> <img src=":img/img5.png" width="30%">
+<br> <img src="img/img6.png" width="25%"> <img src="img/img5.png" width="30%">
 
 - **Early Detection (Manual/Automatic) to Base Station:**
     - Report **workspace violence** with a **discreet button press**.
@@ -101,7 +101,7 @@ Introducing **______________** , a compact wearable **device** designed to:
 ## 5. **Market Analysis**
 
 - **Existing Solutions:** Some devices and services already provide similar functionalities, proving that this is not an abstract concept.
-<br><img src=":img/img3.png" width="40%"> <img src=":img/img4.png" width="33.3%">
+<br><img src="img/img3.png" width="40%"> <img src="img/img4.png" width="33.3%">
 - **Why This Over Others?**
     - **Cost:**
         - Most competitors exceed [**$500**](https://loneworkerdevices.com/buy-now/) and often require a [**subscription**](https://www.okaloneworker.com/pricing/our-plans/) (which alone can exceed a manual worker's salary in **Sri Lanka**).
@@ -110,9 +110,9 @@ Introducing **______________** , a compact wearable **device** designed to:
         - Can be used with a **base station for businesses** or as a **standalone device** communicating with a **loved one's phone**.
     - **Compared to [Smartphones](https://sheqsy.com):**
         1. While smartphones offer some similar functions, many features require **subscriptions** and are **limited by hardware capabilities**.
-        2. **Better battery life**—no one wants a dead battery in an emergency.
-        3. **Simple, foolproof UI**—emergencies require quick, effortless actions.
-        4. **Specialized hardware**—smartphones lack **gas sensors** and other critical features.
+        2. **Better battery life** - no one wants a dead battery in an emergency.
+        3. **Simple, foolproof UI** - emergencies require quick, effortless actions.
+        4. **Specialized hardware** - smartphones lack **gas sensors** and other critical features.
 
 ## 6. **Target Users? Other Possibilities?**
 
